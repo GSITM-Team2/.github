@@ -25,7 +25,7 @@
 
 - 개발기간 : <br>
 - 기술스택 : (BackEnd) java / springboot / mySQL (Front) NextJS
-- Design : Figma / html / (s)css
+- Design : Figma 
 - TeamSpace : https://www.notion.so/_API-fe651b091d59445cbb2f0e753d764fdc
 - Server :
 - Demo : 
