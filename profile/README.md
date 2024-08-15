@@ -25,11 +25,9 @@
 
 - 개발기간 : <br>
 - 기술스택 : (BackEnd) java / springboot / mySQL (Front) NextJS
-- TeamSpace : https://www.notion.so/_API-fe651b091d59445cbb2f0e753d764fdc
 - Design : Figma / html / (s)css
+- TeamSpace : https://www.notion.so/_API-fe651b091d59445cbb2f0e753d764fdc
 - Server :
-- ERD :
-  
 - Demo : 
 ![cultureland_demo](https://github.com/user-attachments/assets/eddad405-a91b-4a6b-9153-280dc8079195)
 
