@@ -23,11 +23,9 @@
 </table>
 <br>
 
-- 개발기간 : <br>
 - 기술스택 : (BackEnd) java / springboot / mySQL (Front) NextJS
 - Design : Figma 
 - TeamSpace : https://olivine-failing-d2d.notion.site/_API-fe651b091d59445cbb2f0e753d764fdc?pvs=4
-- Server :
 - Demo : 
 ![cultureland_demo](https://github.com/user-attachments/assets/eddad405-a91b-4a6b-9153-280dc8079195)
 
